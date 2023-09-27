@@ -9,7 +9,7 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <toolWindow id="Style Checker" anchor="bottom" factoryClass="edu.berkeley.cs61b.plugin.CheckStyleToolWindowFactory" icon="/icons/style.png"/>
+    <toolWindow id="Style Checker" anchor="bottom" factoryClass="edu.berkeley.cs61b.plugin.CheckStyleToolWindowFactory" icon="/icons/style@13x.png"/>
   </extensions>
 
   <actions>
